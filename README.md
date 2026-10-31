@@ -1,5 +1,7 @@
 Data Analyst Course Certificate
 
+(![imagealt](https://github.com/tusharsgupta7/Data-Analyst-Certificate/blob/9b48e39001945bbcf68482cded6e43a892074ef4/Data-Analyst-Course-Certificate.pdf)
+
 About This Certificate
 
 This repository contains my Data Analyst course completion certificate, awarded by my coaching institute after successfully completing the Data Analyst training program.
